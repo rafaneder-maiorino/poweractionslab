@@ -27,7 +27,6 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://orgc6d77102.crm2.dynamics.com/'
-  USERNAME: 'EngIIIPRODUCAO'
 
 jobs:
   export-from-dev:
